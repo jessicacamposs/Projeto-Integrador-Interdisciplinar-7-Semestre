@@ -18,7 +18,7 @@
                         </a>
                         <!-- DROPDOWN MENU -->
                         <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                            <a class="dropdown-item" href="users.php?do=Edit&user_id=<?php echo $_SESSION['userid_restaurant_qRewacvAqzA'] ?>">
+                            <a class="dropdown-item" href="users.php?do=Edit&user_id=1<?php echo $_SESSION['userid_restaurant_qRewacvAqzA'] ?>">
                                 <i class="fas fa-user-cog"></i>
                                 <span style="padding-left:6px">
                                     Editar Perfil

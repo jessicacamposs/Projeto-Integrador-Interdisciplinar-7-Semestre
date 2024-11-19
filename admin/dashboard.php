@@ -13,8 +13,8 @@
 
     //TEST IF THE SESSION HAS BEEN CREATED BEFORE
 
-    /*if(isset($_SESSION['username_restaurant_qRewacvAqzA']) /*&& isset($_SESSION['password_restaurant_qRewacvAqzA']))
-    {*/
+    //if(isset($_SESSION['username_restaurant_qRewacvAqzA']) && isset($_SESSION['password_restaurant_qRewacvAqzA']))
+    {
     	include 'Includes/templates/navbar.php';
 
     	?>
@@ -789,12 +789,12 @@
 
     	include 'Includes/templates/footer.php';
 
-    /*}
-    else
+    }
+   /* else
     {
     	header("Location: index.php");
     	exit();
-    }*/
+    } */
 
 ?>
 

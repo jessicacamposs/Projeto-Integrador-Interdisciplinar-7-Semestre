@@ -4,8 +4,8 @@
 
 	$pageTitle = 'Usuarios';
 
-	/*if(isset($_SESSION['username_restaurant_qRewacvAqzA']) && isset($_SESSION['password_restaurant_qRewacvAqzA']))
-	{*/
+	//if(isset($_SESSION['username_restaurant_qRewacvAqzA']) && isset($_SESSION['password_restaurant_qRewacvAqzA']))
+	{
 		include 'connect.php';
   		include 'Includes/functions/functions.php'; 
 		include 'Includes/templates/header.php';
@@ -325,8 +325,8 @@
 
         include 'Includes/templates/footer.php';
 
-    /*}
-    else
+    }
+    /*else
     {
         header('Location: index.php');
         exit();

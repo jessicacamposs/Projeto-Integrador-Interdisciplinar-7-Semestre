@@ -87,7 +87,7 @@
 			<div class="row">
 				<div class="col-md-4">
 					<div class="our_qualities_column">
-	                    <img src="Design/images/coffee_1046887-2.png" >
+	                    <img src="Design/images/coffee_1046887-2.png" alt="imagem de um copo de cafe">
 	                    <div class="caption">
 	                        <h3>
 	                            Grãos moídos na hora 
@@ -103,7 +103,7 @@
 				</div>
 				<div class="col-md-4">
 					<div class="our_qualities_column">
-	                    <img src="Design/images/truck_2935445-2.png" >
+	                    <img src="Design/images/truck_2935445-2.png" alt="imagem de um caminhao de entregas">
 	                    <div class="caption">
 	                        <h3>
 	                            Entregas no mesmo dia
@@ -119,7 +119,7 @@
 				</div>
 				<div class="col-md-4">
 					<div class="our_qualities_column">
-	                    <img src="Design/images/coffee-beans_2302393-2.png">
+	                    <img src="Design/images/coffee-beans_2302393-2.png" alt="imagem de grãos de café">
 	                    <div class="caption">
 	                        <h3>
 								Plantação sustentável
@@ -442,7 +442,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6">
                     <div class="footer_widget">
-                        <img src="Design/images/logo.png" alt="Restaurant Logo" style="width: 150px;margin-bottom: 20px;">
+                        <img src="Design/images/logo.png" alt="Logo do Expresso Gourmet Delivery" style="width: 150px;margin-bottom: 20px;">
                         <p> Tradição no Mercado de Cafés por Delivery </p>
                         <ul class="widget_social">
                             <li><a href="#" data-toggle="tooltip" title="Facebook"><i class="fab fa-facebook-f fa-2x"></i></a></li>
