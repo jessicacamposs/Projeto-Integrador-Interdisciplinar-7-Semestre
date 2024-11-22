@@ -1,5 +1,5 @@
 <h1>Expresso Gourmet Delivery | Um site de delivery de cafés em PHP e MYSQL</h1>
-<h2>Projeto Integrador Interdisciplinar do 7 semestre do curso de Sistemas de Informacao</h2>
+<h2>Projeto Integrador Transdisciplinar do 7 semestre do curso de Sistemas de Informação</h2>
 <hr>
 <div>
 	<h3>Tecnologias Usadas:</h3>
